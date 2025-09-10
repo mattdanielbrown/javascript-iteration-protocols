@@ -30,7 +30,7 @@
   "dependencies": {
     "@aws-sdk/client-dynamodb": "^3.14.0",
     "axios": "^0.21.1",
-    "glob": "^7.1.6"
+    "glob": "^11.0.3"
   },
   "lint-staged": {
     "*.js": "eslint --cache --fix"
